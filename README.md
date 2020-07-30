@@ -119,6 +119,9 @@
   - JWT auth (architecture)
   - Capital Allocation (equity vs debt)
   - Wordpress
+  - Test Driven Development
+  - CI / CD
+  - Design Principles
   
 ### What I am in the process of learning
 
