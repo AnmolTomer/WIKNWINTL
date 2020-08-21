@@ -121,7 +121,8 @@
   - Wordpress
   - Test Driven Development
   - CI / CD
-  - Design Principles
+  - Design Principles/Patterns
+  - Serverless Architecture
   
 ### What I am in the process of learning
 
