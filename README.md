@@ -63,6 +63,8 @@
   
 ## What I want to learn
 
+  - Solidity / Smart Contract Development
+  - Web 3.0
   - Ruby/Rails
   - Software scalability: vertical scalability vs horizontal scalability
   - Basic Caching/TTL
