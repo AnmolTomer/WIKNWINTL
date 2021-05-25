@@ -14,6 +14,8 @@
   - TCP/IP (essentially how they work)
   - HTTP 
   - Websockets (application layer interfacing through SocketIO)+ Chat App Using MongoDB
+  - WebSocket Stream
+  - Binance API (python-binance) + POSTMAN Environment
   - DNS 
   - Basic SSL/TLS
   - SSH Architecture
